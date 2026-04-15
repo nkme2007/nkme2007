@@ -6,6 +6,8 @@
 
 I sit at the intersection of *business strategy*, *data*, and *user needs*. I love working backwards from the customer, obsessing over metrics that matter, and shipping things that actually move the needle.
 
+![Stats](https://github-readme-stats.vercel.app/api?username=nkme2007&show_icons=true&theme=radical)
+
 ---
 
 ## 🚀 Current Focus
