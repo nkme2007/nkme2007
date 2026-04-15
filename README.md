@@ -39,20 +39,6 @@ I sit at the intersection of *business strategy*, *data*, and *user needs*. I lo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkme2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nithin's GitHub Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkme2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkme2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🎯 What I'm Doing
 
 - **Building** — Product strategies that balance user delight with business outcomes
