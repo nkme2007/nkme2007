@@ -1,16 +1,63 @@
-## Hi there 👋
+# Nithin Kumar Peratla 👋
 
-<!--
-**nkme2007/nkme2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🧩 Product Manager | 📊 Analytics Enthusiast | 🤖 AI Curious
 
-Here are some ideas to get you started:
+**Turning messy problems into clean product roadmaps — one sprint at a time.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I sit at the intersection of *business strategy*, *data*, and *user needs*. I love working backwards from the customer, obsessing over metrics that matter, and shipping things that actually move the needle.
+
+---
+
+## 🚀 Current Focus
+
+- **🧩 Product Management** — Owning roadmaps, aligning stakeholders, and shipping products at [Cognizant](https://www.cognizant.com/)
+- **📊 Business Analytics** — Turning raw data into decisions that stick
+- **🤖 AI in Products** — Exploring how to embed AI/ML into real product experiences
+- **📐 Frameworks** — Always refining how I think: Jobs-to-be-Done, OKRs, PRDs that don't collect dust
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Product & Analytics Platforms**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🎯 What I'm Doing
+
+- **Building** — Product strategies that balance user delight with business outcomes
+- **Analyzing** — Data pipelines, funnels, and dashboards to make sense of what users actually do (not what they say they do)
+- **Learning** — AI/ML product thinking and how to write prompts that don't embarrass me
+- **Connecting** — With PMs, founders, and builders who love shipping things
+
+---
+
+## 📫 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithinkumarperatla/)
+- 🐙 [GitHub](https://github.com/nkme2007)
+
+---
+
+## 🎲 Random Facts
+
+- 🔧 Started as a Mechanical Engineer → Construction Management → now herding software cats as a PM
+- 📉 I've killed more features than I've shipped — and I'm proud of it
+- ☕ Firmly in the Coffee camp (no debate)
+- 🗺️ Believe the best PRDs are the ones your engineers actually read
+
+---
+
+*"Fall in love with the problem, not the solution."*
